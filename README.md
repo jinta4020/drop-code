@@ -13,8 +13,6 @@ For all files excluding those in the `/posts` directory and the `/public` direct
 
 For accurate licensing details, please check the [LICENSE](LICENSE).
 
-----
-
 **DROP CODE** は [jinta4020](https://jinta4020.github.io/) が個人で執筆している多言語ブログのリポジトリです。  
 現在、英語、日本語の2言語で記事を執筆しています。  
 *jinta4020* の母国語は日本語です。英語は堪能ではありません。言葉の間違いがあることをあらかじめお詫びします。
@@ -31,8 +29,6 @@ For accurate licensing details, please check the [LICENSE](LICENSE).
 
 Contributions, feedback, and suggestions for modifications to DROP CODE are welcome.  
 Please create an issue or submit a pull request.
-
-----
 
 DROP CODE へのコントリビューション、フィードバック、記事の修正提案をいただけると、とても嬉しいです。  
 Issue や、 Pull Request の作成をお待ちしています。
